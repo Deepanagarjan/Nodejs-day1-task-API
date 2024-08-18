@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-day1-task-api",
+  "version": "1.0.0",
+  "description": "API two end points using Nodejs and Expressjs",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "Deepa",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemon": "^3.1.4"
+  }
+}
